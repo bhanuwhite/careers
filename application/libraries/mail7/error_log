@@ -1,0 +1,36 @@
+[24-Jun-2011 00:20:19] PHP Fatal error:  Cannot use string offset as an array in /home/geminigl/public_html/mail7/class.phpmailer.php on line 1346
+[24-Jun-2011 00:25:01] PHP Fatal error:  Cannot use string offset as an array in /home/geminigl/public_html/mail7/class.phpmailer.php on line 1346
+[24-Jun-2011 11:35:02] PHP Warning:  Invalid argument supplied for foreach() in /home/geminigl/public_html/mail7/mail2.php on line 54
+[24-Jun-2011 11:40:01] PHP Warning:  Invalid argument supplied for foreach() in /home/geminigl/public_html/mail7/mail2.php on line 54
+[24-Jun-2011 11:45:01] PHP Warning:  unlink(../attachment/*) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/geminigl/public_html/mail7/mail2.php on line 53
+[24-Jun-2011 13:15:01] PHP Fatal error:  Cannot use string offset as an array in /home/geminigl/public_html/mail7/class.phpmailer.php on line 1346
+[24-Jun-2011 13:20:22] PHP Fatal error:  Cannot use string offset as an array in /home/geminigl/public_html/mail7/class.phpmailer.php on line 1346
+[24-Jun-2011 13:25:01] PHP Fatal error:  Cannot use string offset as an array in /home/geminigl/public_html/mail7/class.phpmailer.php on line 1346
+[24-Jun-2011 13:30:03] PHP Fatal error:  Cannot use string offset as an array in /home/geminigl/public_html/mail7/class.phpmailer.php on line 1346
+[10-Oct-2011 16:00:04] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/geminigl/public_html/mail7/mail2.php on line 18
+[10-Oct-2011 16:00:05] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/geminigl/public_html/mail7/mail2.php on line 48
+[10-Oct-2011 17:00:02] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/geminigl/public_html/mail7/mail2.php on line 18
+[10-Oct-2011 17:00:02] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/geminigl/public_html/mail7/mail2.php on line 48
+[13-Oct-2011 00:00:02] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/geminigl/public_html/mail7/mail2.php on line 13
+[13-Oct-2011 00:00:02] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/geminigl/public_html/mail7/mail2.php on line 14
+[14-Nov-2011 09:00:02] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/geminigl/public_html/mail7/mail2.php on line 13
+[14-Nov-2011 09:00:02] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/geminigl/public_html/mail7/mail2.php on line 14
+[17-Nov-2011 22:08:46] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to smtp.gmail.com:25 (Connection refused) in /home/geminigl/public_html/mail7/class.smtp.php on line 122
+[21-Nov-2011 13:00:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/geminigl/public_html/mail7/mail2.php on line 13
+[21-Nov-2011 13:00:04] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/geminigl/public_html/mail7/mail2.php on line 14
+[29-Nov-2011 16:00:03] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/geminigl/public_html/mail7/mail2.php on line 18
+[29-Nov-2011 16:00:04] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/geminigl/public_html/mail7/mail2.php on line 60
+[21-Dec-2011 13:00:07] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/geminigl/public_html/mail7/mail2.php on line 13
+[21-Dec-2011 13:00:08] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/geminigl/public_html/mail7/mail2.php on line 14
+[10-Jan-2012 13:00:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/geminigl/public_html/mail7/mail2.php on line 13
+[10-Jan-2012 13:00:04] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/geminigl/public_html/mail7/mail2.php on line 14
+[22-Jan-2012 03:00:06] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/geminigl/public_html/mail7/mail2.php on line 13
+[22-Jan-2012 03:00:06] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/geminigl/public_html/mail7/mail2.php on line 14
+[28-Jan-2012 21:00:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/geminigl/public_html/mail7/mail2.php on line 13
+[28-Jan-2012 21:00:02] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/geminigl/public_html/mail7/mail2.php on line 14
+[08-Mar-2012 17:00:03] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/geminigl/public_html/mail7/mail2.php on line 18
+[08-Mar-2012 17:00:03] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/geminigl/public_html/mail7/mail2.php on line 60
+[08-Mar-2012 18:00:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/geminigl/public_html/mail7/mail2.php on line 18
+[08-Mar-2012 18:00:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/geminigl/public_html/mail7/mail2.php on line 60
+[08-Mar-2012 19:00:02] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/geminigl/public_html/mail7/mail2.php on line 18
+[08-Mar-2012 19:00:02] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/geminigl/public_html/mail7/mail2.php on line 60
